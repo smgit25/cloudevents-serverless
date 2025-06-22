@@ -1,0 +1,22 @@
+{
+  "name": "cloudevents-serverless",
+  "version": "1.0.0",
+  "description": "A application demonstrating CloudEvents with Serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smgit25/cloudevents-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smgit25/cloudevents-serverless/issues"
+  },
+  "homepage": "https://github.com/smgit25/cloudevents-serverless#readme",
+  "dependencies": {
+    "cloudevents": "^10.0.0"
+  }
+}
